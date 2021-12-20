@@ -1,3 +1,4 @@
 Resolusi 2022
 - Konsisten terkait data science
-- Implementasi DS pada Tribe e-Health
+- Implementasi DS sederhana pada Tribe e-Health
+- Meningkatkan revenue akibat implementasi DS

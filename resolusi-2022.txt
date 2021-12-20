@@ -1,0 +1,3 @@
+Resolusi 2022
+- Konsisten terkait data science
+- Implementasi DS pada Tribe e-Health

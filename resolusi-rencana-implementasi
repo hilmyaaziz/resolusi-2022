@@ -1,7 +1,9 @@
 Rencana Resolusi 2022
 
 - Implementasi AI
-  - Symptom Checker -> Data Medis
+  - Symptom Checker
+    - Data Medis
+    - Penilaian Hasil Questioner
 - Implementasi MLOps
   - Patient Behaviour
   - Patient Clustering
